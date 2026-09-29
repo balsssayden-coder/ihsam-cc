@@ -1,105 +1,98 @@
-(THIS IS NOT WHAT IT ACTUCALLY IS I HAVE TO PUT THIS TO LOWER CHANCHES OF BEING CAUGHT)# IHSAM — Intelligent Homework & Study Assistant 
+🦈 SH4RK SCRIPTS
+⚡ CONTROL CENTER
 
-IHSAM is an interactive study and homework assistant designed to help students understand what they are working on, find useful information, and get help directly through a simple, modern interface.
+SH4RK Scripts is a browser-based control center packed with tools, customization, automation controls, utilities, and a full key/role system.
 
-## 🚀 Features
+🔑 KEY SYSTEM
+• Free access keys
+• Admin keys
+• Owner keys
+• Key protection and session tracking
+• Login/logout system
+• Role-based access
 
-* 📚 **Study Helper** — Get assistance while studying or working on assignments.
-* 🧠 **AI-Powered Assistance** — Ask questions and receive helpful explanations.
-* 🔍 **Page Awareness** — Designed to understand what you're currently working on.
-* 💡 **Answer Assistance** — Get guidance and explanations for questions you're stuck on.
-* 🖥️ **Modern Interface** — Clean, easy-to-use UI designed for students.
-* ⚡ **Fast & Interactive** — Quickly access tools without leaving your workspace.
-* 🔑 **Key/API Support** — Designed to work with AI API keys when configured.
-* 🛠️ **Customizable** — Built so additional tools and features can be added over time.
+🎛️ MAIN FEATURES
+• Lesson Skipper
+• Speed controls
+• Timing controls
+• Automation
+• Profiles
+• Presets
+• Filters
+• Rules
+• Advanced settings
+• Performance monitor
+• Sessions
+• Scheduler
+• Macros
+• Hotkeys
+• Appearance customization
+• Bookmarks / Quick Links
+• Study Helper
+• Activity logs
+• Global Chat
+• Dashboard
+• Analytics
+• Tool Hub
+• Diagnostics
+• Help Center
+• Settings
+• Fish for Planets
+• Security Lab
+• Status Center
+• Command Center
 
-## 🎯 Purpose
+⚙️ CONTROL FEATURES
+• Adjustable speed
+• Start delay
+• Cooldown
+• Timeout
+• Auto Start
+• Smart Pause
+• Action confirmation
+• Automation intervals
+• Repeat options
+• Saved profiles
+• Preset configurations
+• Custom rules
+• Local macros
+• Keyboard shortcuts
 
-The goal of IHSAM is to create an all-in-one study environment that makes getting help with schoolwork easier.
+📊 DASHBOARD
+• System status
+• Active profile
+• Session status
+• Quick Actions
+• Live interface status
+• Local storage information
 
-Instead of constantly switching between different websites, tabs, and applications, IHSAM aims to put useful study tools directly where students need them.
+🛡️ ADMIN / OWNER SYSTEM
+• Admin-only controls
+• Owner controls
+• Maintenance mode
+• Role-based permissions
+• Key management
+• Session/key leasing
+• Activity and system monitoring
 
-## 🧩 How It Works
+💾 LOCAL/GLOBAL FEATURES 
+• Browser-based storage
+• Save/restore sessions
+• Local and global preferences
+• Local notes
+• Diagnostics
 
-1. Open IHSAM.
-2. Choose the study or homework tool you want to use.
-3. Enter your question or work on your assignment.
-4. IHSAM analyzes the information available to it.
-5. The assistant provides an explanation, guidance, or answer.
-6. Use the information to better understand the material you're studying.
+⌨️ COMMAND CENTER
+• Search tabs
+• Ctrl + K command palette
+• Quick navigation
+• Keyboard controls
 
-## 🔐 API Keys
+🎣 EXTRA
+• Fish for Planets is available without a key
+• Chromebook-friendly interface
+• Responsive UI
+• Dark control-center design
+• Built-in Help Center and Diagnostics
 
-If IHSAM requires an AI API key, configure your key using the project's designated settings or environment variables.
-
-**Never commit private API keys directly into GitHub.**
-
-For example, use environment variables such as:
-
-```env
-OPENAI_API_KEY=your_api_key_here
-```
-
-Make sure your `.env` file is included in `.gitignore`.
-
-## 🛠️ Development
-
-This project is currently under active development.
-
-New features, UI improvements, AI functionality, and study tools may be added as development continues.
-
-### Planned Features
-
-* [ ] Improved AI study assistant
-* [ ] Better page/context recognition
-* [ ] More homework tools
-* [ ] Study modes
-* [ ] Flashcards
-* [ ] Quiz generation
-* [ ] Step-by-step explanations
-* [ ] Improved answer detection
-* [ ] Custom AI settings
-* [ ] More personalization options
-* [ ] Additional API integrations
-
-## 📁 Project Structure
-
-The project may contain files such as:
-
-```text
-IHSAM/
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-├── README.md
-└── .gitignore
-```
-
-The exact structure may change as IHSAM continues to develop.
-
-## ⚠️ Important
-
-IHSAM is intended to be a **study and learning assistant**.
-
-Users should use the information provided by the assistant to understand their schoolwork rather than blindly submitting generated answers.
-
-AI systems can make mistakes, so important information should always be checked against reliable sources.
-
-## 🤝 Contributing
-
-Contributions, ideas, bug reports, and feature suggestions are welcome.
-
-If you find a problem or have an idea for improving IHSAM, open an issue or submit a pull request.
-
-## 📜 License
-
-This project is currently under development. Licensing information will be added when the project is ready for release.
-
----
-
-### ⭐ IHSAM
-
-**Intelligent Homework & Study Assistant**
-
-Built to make studying smarter, simpler, and more accessible.
+🦈 SH4RK SCRIPTS — YOUR CONTROL CENTER.
