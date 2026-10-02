@@ -75,10 +75,10 @@ SH4RK Scripts is a browser-based control center packed with tools, customization
 • Session/key leasing
 • Activity and system monitoring
 
-💾 LOCAL/GLOBAL FEATURES 
+💾 server FEATURES 
 • Browser-based storage
 • Save/restore sessions
-• Local and global preferences
+• server preferences
 • Local notes
 • Diagnostics
 
