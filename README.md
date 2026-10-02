@@ -1,4 +1,4 @@
-🦈 SH4RK SCRIPTS
+🦈 SH4RK SCRIPTS (quick little reminder we know if your trying to bypass keys and we will get you in trouble so just dont do it -sh4rk)
 ⚡ CONTROL CENTER
 
 SH4RK Scripts is a browser-based control center packed with tools, customization, automation controls, utilities, and a full key/role system.
