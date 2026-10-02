@@ -96,3 +96,4 @@ SH4RK Scripts is a browser-based control center packed with tools, customization
 • Built-in Help Center and Diagnostics
 
 🦈 SH4RK SCRIPTS — YOUR CONTROL CENTER.
+our discord for any help (https://discord.gg/AfjvDqfhPm)
