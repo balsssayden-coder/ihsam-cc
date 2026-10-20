@@ -1,4 +1,4 @@
-🦈 SH4RK SCRIPTS (quick little reminder we know if your trying to bypass keys and we will get you in trouble so just dont do it -sh4rk)
+SCRIPTS (quick little reminder we know if your trying to bypass keys and we will get you in trouble so just dont do it)
 ⚡ CONTROL CENTER
 
 SH4RK Scripts is a browser-based control center packed with tools, customization, automation controls, utilities, and a full key/role system.
@@ -88,12 +88,4 @@ SH4RK Scripts is a browser-based control center packed with tools, customization
 • Quick navigation
 • Keyboard controls
 
-🎣 EXTRA
-• Fish for Planets is available without a key
-• Chromebook-friendly interface
-• Responsive UI
-• Dark control-center design
-• Built-in Help Center and Diagnostics
-
-🦈 SH4RK SCRIPTS — YOUR CONTROL CENTER.
 our discord for any help (https://discord.gg/AfjvDqfhPm)
