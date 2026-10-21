@@ -39,7 +39,6 @@ const roles = [
 ["⚡","Omnipotent",7499.99,"An ultra-exclusive supporter tier."],
 ["👑","The Absolute One",9999.99,"The ultimate VIP membership rank."],
 ["𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃","BarCode",9999999.99,"BarCode a role no other has."],
-["iii","iii",1,"iii"],
 ].map((r,i)=>({id:i,emoji:r[0],name:r[1],original:r[2],sale:r[2]===0?0:Math.round(r[2]*0.55*100)/100,desc:r[3]}));
 const $ = id => document.getElementById(id);
 const ADMIN_KEYS = {
